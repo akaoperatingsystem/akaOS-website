@@ -1,2 +1,2 @@
-# akaOS-website
-akaOS Official Website
+# akaOS's website
+akaOS's Official Website
